@@ -1,0 +1,28 @@
+# Arquivos e pastas para ignorar no git
+__pycache__/
+*.pyc
+.env
+config.toml
+.vscode/
+*.sqlite3
+*.db
+*.log
+.DS_Store
+.idea/
+*.pkl
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+*.egg-info/
+*.coverage
+htmlcov/
+.cache/
+*.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Windows
+Thumbs.db
